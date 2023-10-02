@@ -1,0 +1,50 @@
+GIT (Global information Tracker)
+
+2005 
+
+VCS - Version control system
+SCM - Source code management
+
+Key objectives
+
+1. History Tracking
+2. Collabration
+3. Backup and Recovery
+4. Branching and Merging
+
+SCM
+Git, Subversion, Mercurial, Perforce
+
+SCM hosting services
+
+Github, Gitlab, Bitbucket, and Azure DevOps
+
+Benefits of GIT
+
+Error Recovery
+Collabaration
+Version History
+Traceability 
+
+Cetralized version control system - Clearcase and SVN
+Distributed version control system - Git, bitbucket, cloudbees and Azure DevOps
+
+Git architecture
+
+Working directory - 
+Staging area - 
+Git repository - 
+
+Working Directory ----> Staging area -----> Git reporistory 
+
+Local 		Stage area	Remote 
+
+sudo apt-get install git
+
+git --version
+
+Google Github
+
+
+
+
