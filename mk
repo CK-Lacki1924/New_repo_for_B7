@@ -3,3 +3,6 @@ Adding more changes here
 
 
 Trying to stash pop
+
+Trying to stash apply
+
